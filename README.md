@@ -1,6 +1,7 @@
 # SFTSeg
 
-#Websites for downloading websites
+# Websites for downloading datasets
+
 (1) USC-HAD:  http://sipi.usc.edu/had/
 
 (2) Handgesture：https://github.com/andreas-bulling/ActRecTut
