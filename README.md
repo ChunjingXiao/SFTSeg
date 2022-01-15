@@ -1,6 +1,6 @@
 # SFTSeg
 
-# Websites for downloading datasets
+#  Datasets
 
 (1) USC-HAD:  http://sipi.usc.edu/had/
 
