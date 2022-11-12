@@ -12,7 +12,7 @@ Original data:
 
 (4) WiFiAction: https://github.com/ChunjingXiao/DeepSeg
 
-Preprocessd data and discretized data are in the "releases".
+Preprocessd data and discretized data are in  https://github.com/simonchen333/SFTSeg/releases
 
 #  Requements
 Python3.7
