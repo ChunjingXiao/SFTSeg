@@ -1,5 +1,7 @@
 # SFTSeg
 
+These are the code and data for the paper: [Self-Supervised Few-Shot Time-series Segmentation for Activity Recognition]([https://github.com/ChunjingXiao/DeepSeg/blob/master/DeepSeg_JIoT_Online.pdf](https://github.com/ChunjingXiao/SFTSeg/blob/main/Self-Supervised%20Few-Shot%20Time-series%20Segmentation.pdf)), IEEE Transactions on Mobile Computing, 2022. https://ieeexplore.ieee.org/document/9858001
+
 #  Datasets
 
 Original data:
