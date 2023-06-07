@@ -4,12 +4,12 @@ These are the code and data for the paper: [Self-Supervised Few-Shot Time-series
 
 # Citation
 
-@article{xiao2022self,
-  title={Self-Supervised Few-Shot Time-series Segmentation for Activity Recognition},
-  author={Xiao, Chunjing and Chen, Shiming and Zhou, Fan and Wu, Jie},
-  journal={IEEE Transactions on Mobile Computing},
-  year={2022},
-  publisher={IEEE}
+@article{xiao2022self,  
+  title={Self-Supervised Few-Shot Time-series Segmentation for Activity Recognition},  
+  author={Xiao, Chunjing and Chen, Shiming and Zhou, Fan and Wu, Jie},  
+  journal={IEEE Transactions on Mobile Computing},  
+  year={2022},  
+  publisher={IEEE}  
 }
 
 #  Datasets
